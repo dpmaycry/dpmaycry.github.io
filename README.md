@@ -1,2 +1,2 @@
 # dpmaycry.github.io
-但丁のgit博客-Dante's Blog
+但丁のgithub博客-Dante's Blog on github.io
